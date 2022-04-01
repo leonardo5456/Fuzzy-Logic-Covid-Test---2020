@@ -1,0 +1,14 @@
+﻿num,disease,range
+1,temperature-fever,10
+2,Difficulty breathing,9
+3,Inability to wake up or stay awake,10
+4,Bluish discoloration of the lips or face,7
+5,Inability to speak or move,8
+6,Loss of smell,7
+7,Loss of taste,10
+8,Cough,5
+9,Fatigue,4
+10,Headache,3
+11,Congestion or runny nose,5
+12,Nausea or vomiting,3
+13,Diarrhea,0
